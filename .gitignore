@@ -1,0 +1,3 @@
+typedoc
+*.ts*
+node_modules

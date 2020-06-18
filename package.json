@@ -1,0 +1,14 @@
+{
+  "name": "typedoc-export-bug-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "typedoc": "^0.17.7",
+    "typescript": "^3.9.5"
+  },
+  "scripts": {
+    "build": "yarn tsc",
+    "docs": "typedoc"
+  }
+}

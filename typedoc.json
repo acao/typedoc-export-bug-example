@@ -1,0 +1,10 @@
+{
+  "mode": "modules",
+  "out": "typedoc",
+  "exclude": "**/__tests__/**,*.spec.*,**/*.stories.tsx,*-test.*,**/esm/**,**/dist/**,**/node_modules/**",
+  "excludePrivate": true,
+  "excludeNotExported": true,
+  "ignoreCompilerErrors": true,
+  "includeDeclarations": true,
+  "preserveConstEnums": true
+}
